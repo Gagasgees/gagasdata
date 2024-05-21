@@ -1,0 +1,704 @@
+[
+ {
+  "id": "Seram Bagian Barat",
+  "Province": "Maluku",
+  "latitude": "-3.360161",
+  "longitude": "127.621132"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.495908",
+  "longitude": "127.634956"
+ },
+ {
+  "id": "Tojo Una - Una",
+  "Province": "Sulawesi Tengah",
+  "latitude": "-0.868752",
+  "longitude": "121.585945"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.495476",
+  "longitude": "127.634888"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.578958",
+  "longitude": "121.390236"
+ },
+ {
+  "id": "Sijunjung",
+  "Province": "Sumatera barat",
+  "latitude": "-0.776118",
+  "longitude": "101.427269"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.577879",
+  "longitude": "121.380264"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.579796",
+  "longitude": "121.392609"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.460856",
+  "longitude": "127.432808"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.461743",
+  "longitude": "127.438477"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.461587",
+  "longitude": "127.434128"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.453715",
+  "longitude": "127.434471"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.454462",
+  "longitude": "127.435974"
+ },
+ {
+  "id": "Kuantan Singingi",
+  "Province": "Riau",
+  "latitude": "-0.727821",
+  "longitude": "101.473145"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.578048",
+  "longitude": "121.384048"
+ },
+ {
+  "id": "Tanjung Jabung Barat",
+  "Province": "Jambi",
+  "latitude": "-1.168224",
+  "longitude": "103.338928"
+ },
+ {
+  "id": "Musi Banyuasin",
+  "Province": "Sumatera Selatan",
+  "latitude": "-2.289566",
+  "longitude": "103.936073"
+ },
+ {
+  "id": "Tanah Laut",
+  "Province": "Kalimantan Selatan",
+  "latitude": "-3.879206",
+  "longitude": "115.113136"
+ },
+ {
+  "id": "Cilacap",
+  "Province": "Jawa Tengah",
+  "latitude": "-7.703648",
+  "longitude": "108.994987"
+ },
+ {
+  "id": "Sijunjung",
+  "Province": "Sumatera Barat",
+  "latitude": "-0.812226",
+  "longitude": "101.345741"
+ },
+ {
+  "id": "Sijunjung",
+  "Province": "Sumatera Barat",
+  "latitude": "-0.807174",
+  "longitude": "101.344498"
+ },
+ {
+  "id": "Yapen",
+  "Province": "Papua",
+  "latitude": "-1.816215",
+  "longitude": "136.750504"
+ },
+ {
+  "id": "Halmahera Barat",
+  "Province": "Maluku Utara",
+  "latitude": "-1.495869",
+  "longitude": "127.635155"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.492002",
+  "longitude": "127.632164"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-0.710230",
+  "longitude": "128.272141"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-0.75133",
+  "longitude": "127.613831"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-0.704614",
+  "longitude": "127.458969"
+ },
+ {
+  "id": "Cilacap",
+  "Province": "Jawa Tengah",
+  "latitude": "-7.700494",
+  "longitude": "108.997467"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.577159",
+  "longitude": "121.377777"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.581512",
+  "longitude": "121.381615"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.574852",
+  "longitude": "121.386986"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.578526",
+  "longitude": "121.386475"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.574172",
+  "longitude": "121.382637"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.573493",
+  "longitude": "121.378311"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.577842",
+  "longitude": "121.382118"
+ },
+ {
+  "id": "Cilacap",
+  "Province": "Jawa Tengah",
+  "latitude": "-7.704501",
+  "longitude": "108.998016"
+ },
+ {
+  "id": "Cilacap",
+  "Province": "Jawa Tengah",
+  "latitude": "-7.701566",
+  "longitude": "108.995796"
+ },
+ {
+  "id": "Cilacap",
+  "Province": "Jawa Tengah",
+  "latitude": "-7.703517",
+  "longitude": "108.992577"
+ },
+ {
+  "id": "Bima",
+  "Province": "Nusa Tenggara Barat",
+  "latitude": "-8.197446",
+  "longitude": "119.070305"
+ },
+ {
+  "id": "Jayapura",
+  "Province": "Papua",
+  "latitude": "-2.622459",
+  "longitude": "140.540115"
+ },
+ {
+  "id": "Cilacap",
+  "Province": "Jawa Tengah",
+  "latitude": "-7.702152",
+  "longitude": "108.994263"
+ },
+ {
+  "id": "Kepulauan Yapen",
+  "Province": "Papua",
+  "latitude": "-1.817307",
+  "longitude": "136.752914"
+ },
+ {
+  "id": "Kutai Kartenegara",
+  "Province": "Kalimantan Timur",
+  "latitude": "-0.125096",
+  "longitude": "116.819824"
+ },
+ {
+  "id": "Tanah Laut",
+  "Province": "Kalimantan Selatan",
+  "latitude": "-3.878134",
+  "longitude": "115.112282"
+ },
+ {
+  "id": "Sijunjung",
+  "Province": "Sumatera Barat",
+  "latitude": "-0.847132",
+  "longitude": "101.391647"
+ },
+ {
+  "id": "Musi Banyuasin",
+  "Province": "Sumatera Selatan",
+  "latitude": "-2.289156",
+  "longitude": "103.937515"
+ },
+ {
+  "id": "Bekasi",
+  "Province": "Jawa Barat",
+  "latitude": "-6.459063",
+  "longitude": "107.212433"
+ },
+ {
+  "id": "Teluk Bintuni",
+  "Province": "Papua Barat",
+  "latitude": "-2.440749",
+  "longitude": "133.141006"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.458488",
+  "longitude": "127.434608"
+ },
+ {
+  "id": "Barito Utara",
+  "Province": "Kalimantan Tengah",
+  "latitude": "-0.291341",
+  "longitude": "115.244553"
+ },
+ {
+  "id": "Dharmasraya",
+  "Province": "Sumatera Barat",
+  "latitude": "-1.670529",
+  "longitude": "101.476234"
+ },
+ {
+  "id": "Kuantan Singingi",
+  "Province": "Riau",
+  "latitude": "-0.44362",
+  "longitude": "101.893639"
+ },
+ {
+  "id": "Kuantan Singingi",
+  "Province": "Riau",
+  "latitude": "-0.44128",
+  "longitude": "101.893326"
+ },
+ {
+  "id": "Kuantan Singingi",
+  "Province": "Riau",
+  "latitude": "-0.728888",
+  "longitude": "101.473351"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.576073",
+  "longitude": "121.383774"
+ },
+ {
+  "id": "Siau Tagulandang Biaro",
+  "Province": "Sulawesi Utara",
+  "latitude": "-2.780473",
+  "longitude": "125.392899"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.501654",
+  "longitude": "127.631821"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.497552",
+  "longitude": "127.629349"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.496902",
+  "longitude": "127.633453"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-0.149731",
+  "longitude": "127.632248"
+ },
+ {
+  "id": "Kepulauan Yapen",
+  "Province": "Papua",
+  "latitude": "-1.817359",
+  "longitude": "136.748856"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-0.145576",
+  "longitude": "127.435417"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.492668",
+  "longitude": "127.633064"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-0.145984",
+  "longitude": "127.434853"
+ },
+ {
+  "id": "Sijunjung",
+  "Province": "Sumatera Barat",
+  "latitude": "-0.790069",
+  "longitude": "101.390068"
+ },
+ {
+  "id": "Kuantan Singingi",
+  "Province": "Riau",
+  "latitude": "-0.439984",
+  "longitude": "101.892738"
+ },
+ {
+  "id": "Kuantan Singingi",
+  "Province": "Riau",
+  "latitude": "-0.440218",
+  "longitude": "101.893677"
+ },
+ {
+  "id": "Sijunjung",
+  "Province": "Sumatera Barat",
+  "latitude": "-0.847396",
+  "longitude": "101.392242"
+ },
+ {
+  "id": "Kuantan Singingi",
+  "Province": "Riau",
+  "latitude": "-0.727448",
+  "longitude": "101.475601"
+ },
+ {
+  "id": "Solok Selatan",
+  "Province": "Sumatera Barat",
+  "latitude": "-1.260092",
+  "longitude": "101.135239"
+ },
+ {
+  "id": "Solok Selatan",
+  "Province": "Sumatera Barat",
+  "latitude": "-1.372149",
+  "longitude": "101.224457"
+ },
+ {
+  "id": "Dharmasraya",
+  "Province": "Sumatera Barat",
+  "latitude": "-1.669775",
+  "longitude": "101.476318"
+ },
+ {
+  "id": "Tanjung Jabung Barat",
+  "Province": "Jambi",
+  "latitude": "-1.169231",
+  "longitude": "103.337852"
+ },
+ {
+  "id": "Musi Banyuasin",
+  "Province": "Sumatera Selatan",
+  "latitude": "-2.289121",
+  "longitude": "103.939293"
+ },
+ {
+  "id": "Cilacap",
+  "Province": "Jawa Tengah",
+  "latitude": "-7.696096",
+  "longitude": "108.998482"
+ },
+ {
+  "id": "Cilacap",
+  "Province": "Jawa Tengah",
+  "latitude": "-7.703372",
+  "longitude": "108.997391"
+ },
+ {
+  "id": "Cilacap",
+  "Province": "Jawa Tengah",
+  "latitude": "-7.703335",
+  "longitude": "108.999222"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.496039",
+  "longitude": "127.625977"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.501029",
+  "longitude": "127.626877"
+ },
+ {
+  "id": "Solok Selatan",
+  "Province": "Sumatera Barat",
+  "latitude": "-1.261175",
+  "longitude": "101.132408"
+ },
+ {
+  "id": "Indragiri Hilir",
+  "Province": "Riau",
+  "latitude": "-0.116984",
+  "longitude": "103.339622"
+ },
+ {
+  "id": "Tanjung Jabung Barat",
+  "Province": "Jambi",
+  "latitude": "-1.214884",
+  "longitude": "103.418007"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.575909",
+  "longitude": "121.381844"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.576561",
+  "longitude": "121.377365"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.575252",
+  "longitude": "121.386368"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.580427",
+  "longitude": "121.378311"
+ },
+ {
+  "id": "Luwu Timur",
+  "Province": "Sulawesi Selatan",
+  "latitude": "-2.578891",
+  "longitude": "121.383018"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.459246",
+  "longitude": "127.437477"
+ },
+ {
+  "id": "Bima",
+  "Province": "Nusa Tenggara Barat",
+  "latitude": "-8.198586",
+  "longitude": "119.068451"
+ },
+ {
+  "id": "Bima",
+  "Province": "Nusa Tenggara Barat",
+  "latitude": "-8.199148",
+  "longitude": "119.071968"
+ },
+ {
+  "id": "Dumai",
+  "Province": "Riau",
+  "latitude": "-1.673606",
+  "longitude": "101.477852"
+ },
+ {
+  "id": "Kuantan Singingi",
+  "Province": "Riau",
+  "latitude": "-0.44097",
+  "longitude": "101.893814"
+ },
+ {
+  "id": "Tanjung Jabung Barat",
+  "Province": "Jambi",
+  "latitude": "-1.167891",
+  "longitude": "103.340439"
+ },
+ {
+  "id": "Balikpapan",
+  "Province": "Kalimantan Timur",
+  "latitude": "-1.249428",
+  "longitude": "116.820045"
+ },
+ {
+  "id": "Paser",
+  "Province": "Kalimantan Timur",
+  "latitude": "-1.892449",
+  "longitude": "115.862312"
+ },
+ {
+  "id": "Tanjung Jabung Barat",
+  "Province": "Jambi",
+  "latitude": "-0.934556",
+  "longitude": "102.945984"
+ },
+ {
+  "id": "Tanjung Jabung Barat",
+  "Province": "Jambi",
+  "latitude": "-0.935017",
+  "longitude": "102.948921"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.459034",
+  "longitude": "127.436836"
+ },
+ {
+  "id": "Samarinda",
+  "Province": "Kalimantan Timur",
+  "latitude": "-0.639427",
+  "longitude": "117.181854"
+ },
+ {
+  "id": "Tabalong",
+  "Province": "Kalimantan Selatan",
+  "latitude": "-2.165976",
+  "longitude": "115.577141"
+ },
+ {
+  "id": "Kutai Kartanegara",
+  "Province": "Kalimantan Timur",
+  "latitude": "-0.58393",
+  "longitude": "117.386063"
+ },
+ {
+  "id": "Tanjung Jabung Barat",
+  "Province": "Jambi",
+  "latitude": "-0.931363",
+  "longitude": "102.947792"
+ },
+ {
+  "id": "Tanjung Jabung Barat",
+  "Province": "Jambi",
+  "latitude": "-0.930787",
+  "longitude": "102.951416"
+ },
+ {
+  "id": "Maluku Tengah",
+  "Province": "Maluku  ",
+  "latitude": "-3.496122",
+  "longitude": "128.601624"
+ },
+ {
+  "id": "Halmahera Selatan",
+  "Province": "Maluku Utara",
+  "latitude": "-1.460927",
+  "longitude": "127.435196"
+ },
+ {
+  "id": "Tojo Una - Una",
+  "Province": "Sulawesi Tengah",
+  "latitude": "-1.206656",
+  "longitude": "121.235641"
+ },
+ {
+  "id": "Musi Banyuasin",
+  "Province": "Sumatera Selatan",
+  "latitude": "-2.287901",
+  "longitude": "103.939346"
+ },
+ {
+  "id": "Kepulauan Tanimbar",
+  "Province": "Maluku",
+  "latitude": "-7.123493",
+  "longitude": "131.769684"
+ },
+ {
+  "id": "Tanjung Jabung Barat",
+  "Province": "Jambi",
+  "latitude": "-1.167393",
+  "longitude": "103.336693"
+ },
+ {
+  "id": "Tanjung Jabung Barat",
+  "Province": "Jambi",
+  "latitude": "-1.168436",
+  "longitude": "103.336464"
+ },
+ {
+  "id": "Cilacap ",
+  "Province": "Jawa Tengah",
+  "latitude": "-7.703508",
+  "longitude": "108.995766"
+ },
+ {
+  "id": "Cilacap ",
+  "Province": "Jawa Tengah",
+  "latitude": "-7.701435",
+  "longitude": "108.994667"
+ },
+ {
+  "id": "Bogor",
+  "Province": "Jawa Barat",
+  "latitude": "-6.479186",
+  "longitude": "106.901619"
+ },
+ {
+  "id": "Solok Selatan",
+  "Province": "Sumatera Barat",
+  "latitude": "-1.263032",
+  "longitude": "101.133362"
+ },
+ {
+  "id": "Sijunjung",
+  "Province": "Sumatera Barat",
+  "latitude": "-0.776563",
+  "longitude": "101.428986"
+ },
+ {
+  "id": "Sijunjung",
+  "Province": "Sumatera Barat",
+  "latitude": "-0.77768",
+  "longitude": "101.427887"
+ },
+ {
+  "id": "Sijunjung",
+  "Province": "Sumatera Barat",
+  "latitude": "-0.845273",
+  "longitude": "101.392517"
+ }
+]
